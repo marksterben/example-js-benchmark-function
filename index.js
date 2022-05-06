@@ -40,15 +40,14 @@ const benchmarkActive = true;
 const logSolutionActive = true;
 
 // testWord is a variable to set testing wording to function
-// const testWords = ["sekolah.mu", "mdp.ac.id", "h!a&@.loya"];
-const testWords = ["h!a&@.loya"];
+const testWords = ["sekolah.mu", "mdp.ac.id", "h!a&@.loya"];
 
 // note: solution 3 there something wrong
 // list existing function
 const solutions = {
   1: solution1,
   2: solution2,
-  3: solution3,
+  // 3: solution3,
   4: solution4,
   5: solution5,
   6: solution6,
